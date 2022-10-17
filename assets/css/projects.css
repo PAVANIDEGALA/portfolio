@@ -496,3 +496,9 @@ img {
 .text-font{
   font-family: BrandonGrotW01-Light,sans-serif
 }
+
+.img-para{
+  margin-left: 30%;
+  margin-right: 25%;
+  text-align: center;
+}
