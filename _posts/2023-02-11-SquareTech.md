@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SquareTech
-date: 2022-02-11 18:54 +0600
+date: 2023-02-11 18:54 +0600
 image: "/images/squaretech/a1.jpg"
 permalink: /squaretech/
 tags: ui/ux
@@ -24,15 +24,25 @@ UX/UI designer for SquareTech website.
 
 Competitive Analysis, Creating user flows and design system, design screens.
 
+## Color Palette:
+
 ![squaretech2](../images/squaretech/a2.jpg)
+
+## Logo and Typography
 
 ![squaretech3](../images/squaretech/a3.jpg)
 
-![squaretech4](../images/squaretech/a4.jpg)
+## Competitive Analysis
+
+![squaretech4](../images/squaretech/a8.png)
+
+## User Flow
 
 ![squaretech5](../images/squaretech/a7.png)
 
-![squaretech6](../images/squaretech/a6.jpg)
+## Final Screens
+
+![squaretech6](../images/squaretech/a9.jpg)
 
 
 
