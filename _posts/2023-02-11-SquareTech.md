@@ -30,7 +30,7 @@ Competitive Analysis, Creating user flows and design system, design screens.
 
 ![squaretech4](../images/squaretech/a4.jpg)
 
-![squaretech5](../images/squaretech/a7png)
+![squaretech5](../images/squaretech/a7.png)
 
 ![squaretech6](../images/squaretech/a6.jpg)
 
