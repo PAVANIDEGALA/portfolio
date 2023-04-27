@@ -1,14 +1,14 @@
 ---
 layout: post
-title: SquareTech
+title: Exam Bazaar
 date: 2023-02-11 18:54 +0600
 image: "/images/NewOne.png"
-permalink: /squaretech/
+permalink: /exambazaar/
 tags: ui/ux
 featured: true
 ---
 
-![squaretech6](../images/NDA.png)
+![NDA](../images/NDA.png)
 
 
 
