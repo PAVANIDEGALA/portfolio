@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cafe Connect
-date: 2022-07-17 18:54 +0600
+date: 2023-03-20 18:54 +0600
 image: "/images/cafe-connect/cafe-1.png"
 permalink: /cafe-connect/
 tags: ui/ux
