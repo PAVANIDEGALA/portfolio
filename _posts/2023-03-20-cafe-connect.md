@@ -38,7 +38,7 @@ There are many problems faced by people to find the correct cafe like:
 
 ## HiFi Prototype
 
-![cafe-1](../images/cafe-connect/cafe-7.png)
+![cafe-1](../images/cafe-connect/replace.jpeg)
 
 ## Final Screen
 
