@@ -8,7 +8,7 @@ tags: ui/ux
 featured: true
 ---
 
-![NDA](../images/NDA.png)
+![NDA](../images/Exambazaar_portfolio.png)
 
 
 
