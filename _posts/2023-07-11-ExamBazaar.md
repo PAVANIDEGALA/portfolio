@@ -5,7 +5,6 @@ date: 2023-01-11 18:54 +0600
 image: "/images/examcover.jpg"
 permalink: /exambazaar/
 tags: ui/ux
-featured: true
 ---
 
 ## MY ROLE:

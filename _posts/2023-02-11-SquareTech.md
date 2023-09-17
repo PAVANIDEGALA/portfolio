@@ -5,7 +5,6 @@ date: 2023-02-11 18:54 +0600
 image: "/images/squaretech/a1.jpg"
 permalink: /squaretech/
 tags: ui/ux
-featured: true
 ---
 
 ## The Product:

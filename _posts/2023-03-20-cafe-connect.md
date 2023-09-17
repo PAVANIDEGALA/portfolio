@@ -5,7 +5,6 @@ date: 2023-03-20 18:54 +0600
 image: "/images/cafe-connect/cafe-1.png"
 permalink: /cafe-connect/
 tags: ui/ux
-featured: true
 ---
 
 ## MY ROLE:
