@@ -19,7 +19,14 @@ We created more than 10 projects from scratch during our internship at Exambazaa
 
 ![Templates](../images/builder.jpg)
 
-![NDA](../images/Exambazaar_portfolio.png)
+![NDA](../images/blogbuilder.jpg)
+
+![NDA](../images/courseh.jpg)
+
+![NDA](../images/profile.jpg)
+
+![NDA](../images/components.jpg)
+
 ![NDA1](../images/nd.jpg)
 
 
