@@ -39,6 +39,6 @@ There are many problems faced by people to find the correct cafe like:
 
 ![cafe-1](../images/cafe-connect/replace.jpeg)
 
-## Final Screen
+## Final Screens
 
 ![cafe-1](../images/cafe-connect/End%20Image.png)
