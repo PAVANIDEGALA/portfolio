@@ -18,9 +18,13 @@ I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https:
 
 ## CLIENTS:
 REPORT GARDEN: Created posts for instagram and blogs
-
+![Reportgarden](../images/RG.png)
 KAAKATEEYA: Created instagram posts and campaign designs
+![Kaakateeya](../images/kAK.png)
 KAMMAVAIBHAVAM: Created instagram posts and magazine covers
+![kammavaibhavam](../images/kAMMA.png)
 TSRTC: Created instagram posts and backdrop banner
 MOLINA TECH: Created all the instagram posts and all the graphics in it's website
+![Molinatech](../images/MT.png)
 DAUGHTER EARTH: Created the blog images
+![DAUGHTER EARTH](../images/de.png)
