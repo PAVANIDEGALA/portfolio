@@ -17,6 +17,13 @@ October 2023 - January 2024
 I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https://marcamor.com/) , I handled the social media of different clients which includes instagram and linkedin posts, Blog images and website graphics.
 
 ## CLIENTS:
+
+## KAAKATEEYA:
+Created instagram posts and campaign designs
+
+Link: [kaakateeya.marriages](https://www.instagram.com/kaakateeya.marriages/)
+
+![Kaakateeya](../images/kaknew.png)
 ## REPORT GARDEN:
 Created posts for instagram and blogs
 
@@ -29,12 +36,6 @@ Created all the instagram posts and all the graphics in it's website
 Link: [molina.technologies](https://www.instagram.com/molina.technologies/)
 
 ![Molinatech](../images/MT.png)
-## KAAKATEEYA:
-Created instagram posts and campaign designs
-
-Link: [kaakateeya.marriages](https://www.instagram.com/kaakateeya.marriages/)
-
-![Kaakateeya](../images/kaknew.png)
 ## KAMMAVAIBHAVAM:
 Created instagram posts and magazine covers
 
