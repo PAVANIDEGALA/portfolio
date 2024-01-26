@@ -34,7 +34,7 @@ Created instagram posts and campaign designs
 
 Link: [kaakateeya.marriages](https://www.instagram.com/kaakateeya.marriages/)
 
-![Kaakateeya](../images/kAK.png)
+![Kaakateeya](../images/kaknew.png)
 ## KAMMAVAIBHAVAM:
 Created instagram posts and magazine covers
 
