@@ -35,7 +35,7 @@ Created all the instagram posts and all the graphics in it's website
 
 Link: [molina.technologies](https://www.instagram.com/molina.technologies/)
 
-![Molinatech](../images/MT.png)
+![Molinatech](../images/Mo.png)
 ## KAMMAVAIBHAVAM:
 Created instagram posts and magazine covers
 
@@ -51,7 +51,7 @@ Link: [tsrtchq](https://www.instagram.com/tsrtchq/)
 ## Solis Eye Care: 
 Created instagram posts and website images
 
-Link: [tsrtchq](https://www.instagram.com/soliseyecarehospital/)
+Link: [soliseyecare](https://www.instagram.com/soliseyecarehospital/)
 
 ![tsrtc](../images/Solis.png)
 ## DAUGHTER EARTH:
