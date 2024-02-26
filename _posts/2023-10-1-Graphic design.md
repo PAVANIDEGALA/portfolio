@@ -47,7 +47,13 @@ Created instagram posts and backdrop banner
 
 Link: [tsrtchq](https://www.instagram.com/tsrtchq/)
 
-![tsrtc](../images/TSRTC.png)
+![tsrtc](../images/Ts.png)
+## Solis Eye Care: 
+Created instagram posts and website images
+
+Link: [tsrtchq](https://www.instagram.com/soliseyecarehospital/)
+
+![tsrtc](../images/Solis.png)
 ## DAUGHTER EARTH:
 Created the blog images
 
