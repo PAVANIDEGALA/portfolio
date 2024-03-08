@@ -2,7 +2,7 @@
 layout: post
 title: Product Design
 date: 2024-03-01 18:54 +0600
-image: "/images/Banner.jpg"
+image: "/images/Header image(1).png"
 permalink: /productdesign/
 tags: productdesign
 ---
@@ -22,6 +22,6 @@ channels such as Gourmet Food Stores in affluent neighbourhoods of Tier 1 cities
 
 ## Rice and Wheat packaging:
 
-![Packaging](../images/Tru(1).jpg)
+![Packaging](../images/Wheat.jpg)
 
 ![Final logo](../images/Tru.jpg)
