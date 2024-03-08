@@ -3,7 +3,7 @@ layout: post
 title: Product Design
 date: 2024-03-01 18:54 +0600
 image: "/images/Banner.jpg"
-permalink: /foodie/
+permalink: /productdesign/
 tags: productdesign
 ---
 
