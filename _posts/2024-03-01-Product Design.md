@@ -2,7 +2,7 @@
 layout: post
 title: Product Design
 date: 2024-03-01 18:54 +0600
-image: "/images/Logobanner.png"
+image: "/images/COVERIMAGE.png"
 permalink: /productdesign/
 tags: productdesign
 ---
