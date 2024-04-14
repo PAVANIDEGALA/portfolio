@@ -3,8 +3,8 @@ layout: post
 title: Packaging Design
 date: 2024-03-20 18:54 +0600
 image: "/images/Cover.png"
-permalink: /productdesign/
-tags: productdesign
+permalink: /packagedesign/
+tags: packagedesign
 ---
 
 ## Product Brief:
