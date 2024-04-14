@@ -18,4 +18,6 @@ Redesigning of MM Mithaiwala packaging
 ## After:
 
 ![After](../images/After1.png)
+
+
 ![Afterimage](../images/After2.png)
