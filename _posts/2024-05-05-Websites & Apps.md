@@ -38,4 +38,4 @@ Live link - https://edu.imagemediaworld.com/instacrave/
 ## MM Mithaiwala : Website,Tablet and app - In production
 MM Mithaiwala serves fresh and traditionally tasty food and their products are reasonably priced. We created this in all different screen sizes which are website, application and 2 different tablet sizes
 
-![Instacraves](../images/MMM.png)
+![MM](../images/MMM.png)
