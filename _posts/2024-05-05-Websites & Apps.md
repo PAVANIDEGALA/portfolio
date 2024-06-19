@@ -2,7 +2,7 @@
 layout: post
 title: Websites & Apps
 date: 2024-05-05 18:54 +0600
-image: "/images/Allwebsitecover.png"
+image: "/images/Allcover.png"
 permalink: /Apps and websites/
 tags: ui/ux
 ---
@@ -18,10 +18,12 @@ Live link - https://maulistays.com/
 
 ![Maulistays](../images/Maulistays.png)
 
+
 ## ISH International : Website - In production
 IshInternational offers a range of essential products including baby care wipes, towels, and intimate wipes etc.
 
 ![ISH](../images/ISH.png)
+
 
 ## Instacraves : Website and app
 Instacraves is a traditional coffee shop website which provides different types cofee and tea products.
@@ -31,3 +33,9 @@ Live link - https://edu.imagemediaworld.com/instacrave/
 ![Instacraves](../images/Insta.png)
 
 ![Instacraves](../images/Instacraves.png)
+
+
+## MM Mithaiwala : Website,Tablet and app - In production
+MM Mithaiwala serves fresh and traditionally tasty food and their products are reasonably priced. We created this in all different screen sizes which are website, application and 2 different tablet sizes
+
+![Instacraves](../images/MMM.png)
