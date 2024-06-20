@@ -2,7 +2,7 @@
 layout: post
 title: MM Mithaiwala
 date: 2024-05-05 18:54 +0600
-image: "/images/MMcover.png"
+image: "/images/coverMM.png"
 permalink: /MM Mithaiwala/
 tags: ui/ux
 ---
@@ -27,6 +27,6 @@ The client, MM Mithaiwala, sought a comprehensive solution comprising a mobile a
 
 ## App, Website and Tablet screens
 
-![MM Mithaiwala](../images/MMAPP.png)
+![MM Mithaiwala](../images/MMobile.png)
 
 ![MM Mithaiwala](../images/MMTAB.png)
