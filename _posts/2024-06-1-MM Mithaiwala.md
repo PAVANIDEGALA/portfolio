@@ -2,7 +2,7 @@
 layout: post
 title: MM Mithaiwala
 date: 2024-05-05 18:54 +0600
-image: "/images/coverMM.png"
+image: "/images/CoverMM.png"
 permalink: /MM Mithaiwala/
 tags: ui/ux
 ---
