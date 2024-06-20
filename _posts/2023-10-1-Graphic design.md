@@ -10,9 +10,6 @@ tags: graphic
 ## MY ROLE:
 Graphic Designer
 
-## TIME LINE:
-October 2023 - January 2024
-
 ## MY WORK:
 I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https://marcamor.com/) , I handled the social media of different clients which includes instagram and linkedin posts, Blog images and website graphics.
 
