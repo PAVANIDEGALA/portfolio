@@ -25,6 +25,10 @@ The client, MM Mithaiwala, sought a comprehensive solution comprising a mobile a
 
 ![MM Mithaiwala](../images/Brandg.png)
 
+## Prototype
+
+![MM Mithaiwala](../images/Prototyping.png)
+
 ## App, Website and Tablet screens
 
 ![MM Mithaiwala](../images/MMobile.png)
