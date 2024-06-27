@@ -10,7 +10,7 @@ seo:
 * I'm Pavani, UI/UX & Graphic designer. Nice to meet you! 👋🏼
 
 
-* Currently, I'm wrapping up my Graphic designer job at Marcamor Consultancy.I completed my Bachelor of Computer Science from Unity Degree College. Before that, I also worked as a UI/UX Intern at Exambazaar for 1 year.
+* Currently, I'm wrapping up my UI/UX designer job at Image media world. I bring three years of experience designing user-friendly interfaces that inspire.
 
 * When I'm not designing:
   I watch anime, create digital art of my favourite characters, paint and eat pizza ✨
