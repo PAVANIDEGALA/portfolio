@@ -24,6 +24,10 @@ IshInternational offers a range of essential products including baby care wipes,
 
 ![ISH](../images/ISH.png)
 
+## Learnings.dev : Website - In production
+Learnings.dev is a learnings platform for people who want to code
+
+![Leanings.dev](../images/Learnings.png)
 
 ## Instacraves : Website and app
 Instacraves is a traditional coffee shop website which provides different types cofee and tea products.

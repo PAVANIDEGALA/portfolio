@@ -10,7 +10,7 @@ seo:
 * I'm Pavani, UI/UX & Graphic designer. Nice to meet you! 👋🏼
 
 
-* Currently, I'm wrapping up my UI/UX designer job at Image media world. I bring three years of experience designing user-friendly interfaces that inspire.
+* Currently, I'm working as a UI/UX Designer at Threewings Innovations. I bring three years of experience in designing user-friendly interfaces that inspire.
 
 * When I'm not designing:
   I watch anime, create digital art of my favourite characters, paint and eat pizza ✨
