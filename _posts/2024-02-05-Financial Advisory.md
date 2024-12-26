@@ -9,7 +9,7 @@ tags: ui/ux
 
 ## My Role:
 
-UI/UX Designer
+UI/UX Designer - For [Virtual Qube](https://www.vqubetech.com/)
 
 ## Project:
 
