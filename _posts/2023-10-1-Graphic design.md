@@ -15,6 +15,14 @@ I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https:
 
 ## CLIENTS:
 
+## KAVYA JEWELS:
+Worked on the entire website banners and graphics.
+
+Link: [Kavya.jewels](https://tritiyajewels.com/kavya/)
+
+![Kavya banners](../images/kaknew.png)
+
+
 ## KAAKATEEYA:
 Created instagram posts and campaign designs
 
