@@ -11,7 +11,7 @@ tags: graphic
 Graphic Designer
 
 ## MY WORK:
-I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https://marcamor.com/) , I handled the social media of different clients which includes instagram and linkedin posts, Blog images and website graphics.
+I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https://marcamor.com/), [Virtual Qube](https://www.vqubetech.com/)
 
 ## CLIENTS:
 
@@ -20,8 +20,37 @@ Worked on the entire website banners and graphics.
 
 Link: [Kavya.jewels](https://tritiyajewels.com/kavya/)
 
-![Kavya banners](../images/kaknew.png)
+![Kavya banners](../images/Banner1.png)
+![Kavya banners](../images/Banner2.png)
+![Kavya banners](../images/Banner3.png)
+![Kavya banners](../images/Athulyam.png)
+![Kavya banners](../images/Ring.png)
+![Kavya banners](../images/2banners.png)
 
+## Graffiti:
+Worked on the designs of all the Banners, Tshirts, Hoodies, Oversized Tshirts, Sweatshirts, Oversized Hoodies etc
+
+Link: [Graffiti](https://www.grafitistore.com//)
+
+![Graffiti](../images/deals.png)
+![Graffiti](../images/Offer.png)
+![Graffiti](../images/Tshirts.png)
+
+## SCRUBAADUB:
+Worked on the Website banners and Social media.
+
+Link: [Scrubaadub](https://www.scrubaadub.com/)
+
+![Kavya banners](../images/Halloween.png)
+![Kavya banners](../images/Christmas.png)
+![Kavya banners](../images/Scrubb.png)
+
+## CLEANERS AUSTRALIA:
+Worked on the entire website, Reels and Social media posts.
+
+Link: [CleanersAustralia](https://cleanersaustralia.com.au/)
+
+![Cleaners Australia](../images/CA.png)
 
 ## KAAKATEEYA:
 Created instagram posts and campaign designs
