@@ -11,7 +11,7 @@ tags: graphic
 Graphic Designer
 
 ## MY WORK:
-I worked as a graphic designer at an agency called [MARCAMOR CONSULTANCY](https://marcamor.com/), [Virtual Qube](https://www.vqubetech.com/)
+I worked as a graphic designer at an agency called [Marcamor Consultancy](https://marcamor.com/), [Virtual Qube](https://www.vqubetech.com/)
 
 ## CLIENTS:
 
@@ -41,7 +41,7 @@ Link: [Graffiti](https://www.grafitistore.com//)
 
 ![Graffiti](../images/Offer.png)
 
-![Graffiti](../images/Tshirts.png)
+![Graffiti](../images/tshirts.png)
 
 ## SCRUBAADUB:
 Worked on the Website banners and Social media.
