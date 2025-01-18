@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphic design
-date: 2023-10-01 18:54 +0600
+date: 2024-12-21 18:54 +0600
 image: "/images/Header image.png"
 permalink: /graphic-design/
 tags: graphic
