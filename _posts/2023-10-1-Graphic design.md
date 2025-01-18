@@ -10,9 +10,6 @@ tags: graphic
 ## MY ROLE:
 Graphic Designer
 
-## MY WORK:
-I worked as a graphic designer at an agency called [Marcamor Consultancy](https://marcamor.com/), [Virtual Qube](https://www.vqubetech.com/)
-
 ## CLIENTS:
 
 ## KAVYA JEWELS:

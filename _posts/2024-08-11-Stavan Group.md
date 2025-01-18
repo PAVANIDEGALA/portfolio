@@ -23,4 +23,6 @@ The Stavan Group, a leading name in logistics, needed a dedicated third website 
 
 I designed a modern, cohesive website for the Stavan Group that reflects its dynamic identity and global reach. The site features an intuitive layout, presenting the group’s key services, such as freight forwarding, customs clearance, warehousing, and domestic logistics, in an organized and visually engaging manner. By incorporating dynamic content, including testimonials and interactive maps highlighting global connections, the design communicates the group's reliability and expertise. This new website effectively serves as a central hub, bridging Stavan Group’s multiple business entities and enabling clients to explore their offerings seamlessly.
 
+![stavan](../images/TabS.png)
+
 ![stavan](../images/Stavan2.jpg)

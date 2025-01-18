@@ -23,4 +23,6 @@ Cleaners Australia, a leading provider of professional cleaning services, requir
 
 I redesigned the Cleaners Australia website with a modern, clean, and intuitive layout to enhance user experience and build trust with potential customers. The new design features streamlined navigation, easy-to-use booking and quote tools, and visually engaging sections to highlight services. Real-time customer testimonials, before-and-after visuals, and a clear "How It Works" guide were added to boost credibility and transparency. The updated website now serves as a comprehensive and professional digital hub, making it easier for clients to explore services, make informed decisions, and book hassle-free cleaning solutions.
 
+![Cleanersaustralia](../images/TabCA.png)
+
 ![Cleanersaustralia](../images/CA2.jpg)

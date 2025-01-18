@@ -27,4 +27,6 @@ The redesigned Smiths Lane Wines website introduces a clean, modern, and invitin
 - Enhanced Personalization Options
 - User-Centric Design
 
+![SmithsLane](../images/TabSL.png)
+
 ![SmithsLane](../images/SL2.jpg)

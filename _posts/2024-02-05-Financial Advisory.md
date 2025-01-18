@@ -28,5 +28,7 @@ Video Integration: Informative and approachable videos simplify complex financia
 Simplified Navigation: A clean, straightforward menu and clear call-to-action buttons guide users seamlessly through the site.
 Visual Focus: Warm imagery, easy-to-understand icons, and testimonials build trust and emotional connection.
 
+![iCarefinancialadvisory](../images/TabFA.png)
+
 ![iCarefinancialadvisory](../images/fa2.jpg)
 
