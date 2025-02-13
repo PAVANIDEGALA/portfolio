@@ -15,6 +15,9 @@ UI/UX Designer - For [Virtual Qube](https://www.vqubetech.com/)
 
 Stavan Group is a logistics provider offering services in freight forwarding, customs clearance, warehousing, transportation, and consultancy across domestic and international markets.
 
+
+![stavan](../images/stavan.png)
+
 ## Problem Statement:
 
 The Stavan Group, a leading name in logistics, needed a dedicated third website to represent its growing portfolio of companies and services. With each existing website tailored to specific business arms, this new platform was required to seamlessly showcase the group's overarching vision, comprehensive service offerings, and global presence. The challenge was to create a user-friendly and professional design that consolidates the group's diverse expertise while maintaining clarity and accessibility for potential clients.
