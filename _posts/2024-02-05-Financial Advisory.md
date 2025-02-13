@@ -15,6 +15,8 @@ UI/UX Designer - For [Virtual Qube](https://www.vqubetech.com/)
 
 The website provides expert financial guidance for aged care, retirement planning, and managing finances, offering personalized support to help families navigate complex decisions and secure their financial future.
 
+![iCarefinancialadvisory](../images/care.png)
+
 ## Problem Statement:
 
 iCare Financial Advisory specializes in providing retirement and aged care planning solutions tailored for older individuals. However, their existing digital presence lacked the necessary elements to appeal to this demographic effectively. Older users often find complex designs, small fonts, and inaccessible content overwhelming, reducing engagement and trust. The website needed a redesign to ensure clarity, ease of navigation, and an inviting user experience while maintaining professionalism.
