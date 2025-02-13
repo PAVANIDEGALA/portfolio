@@ -13,6 +13,8 @@ UI/UX Designer
 ## PROJECT:
 Urban Hospital provides compassionate, advanced healthcare services across various specialties, ensuring high-quality patient care and expert medical attention.
 
+![Urban Hospitals](../images/ub.png)
+
 ## Problem Statement:
 Urban Hospitals required a new website to establish its digital presence and reflect its values of advanced medical care and compassionate service. The absence of an online platform that effectively showcased their specialties, services, and expertise hindered their ability to connect with patients and promote their healthcare offerings. The challenge was to create a user-friendly, visually appealing, and informative website from scratch that catered to diverse patient needs and emphasized trust, accessibility, and modern healthcare excellence.
 
