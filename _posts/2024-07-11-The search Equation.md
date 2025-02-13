@@ -15,6 +15,8 @@ UI/UX Designer - For [Virtual Qube](https://www.vqubetech.com/)
 
 The Search Equation is a professional SEO company helping businesses boost online visibility, traffic, and sales with tailored strategies.
 
+![Thesearchequation](../images/seo.png)
+
 ## Problem Statement:
 
 The Search Equation, an established SEO and digital marketing agency with over 20 years of expertise, required a website that reflected its professional reputation while standing out in a competitive market. The existing platform lacked the minimal, clean, and modern design needed to appeal to clients seeking tailored SEO solutions. It needed to effectively showcase the agency’s proven track record, comprehensive services, and data-driven results in a way that was engaging, user-friendly, and informative
