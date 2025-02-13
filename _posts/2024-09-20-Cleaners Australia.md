@@ -15,6 +15,8 @@ UI/UX Designer - For [Virtual Qube](https://www.vqubetech.com/)
 
 Cleaners Australia offers expert cleaning services, focusing on end-of-lease, bond, and move-in/out cleaning, ensuring hassle-free, high-quality solutions for homes across Australia
 
+![Cleanersaustralia](../images/cleaner.png)
+
 ## Problem Statement:
 
 Cleaners Australia, a leading provider of professional cleaning services, required a website that could effectively communicate its expertise, reliability, and customer-centric approach. The goal was to create a platform that not only showcased the wide range of services offered but also made it simple for customers to book services, get quotes, and access helpful resources. The challenge was to design a user-friendly website that reflects the company’s professionalism and commitment to excellence while engaging a diverse audience.
