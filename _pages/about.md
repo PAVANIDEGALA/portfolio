@@ -2,6 +2,7 @@
 layout: page
 title: About  
 permalink: /about/
+image: "/images/3.png"
 seo:
   - name: "About pavanidegala"
   - type: Organization
@@ -9,11 +10,11 @@ seo:
 
 *  Hi, I'm Pavani! 👋🏼
    
-*  A UI/UX & Graphic Designer with a passion for creating delightful digital experiences.
+*  A UI/UX & Graphic Designer with 3 years of experience bringing ideas to life through seamless and engaging digital experiences.
 
-*  Currently crafting user-centered designs at Threewings Innovations, bringing 3 years of experience to the table.
+*  I love creating intuitive interfaces, eye-catching visuals, and user-friendly designs that not only look great but also feel effortless to use.
 
-*  Outside of work, you’ll find me watching anime, painting, or creating digital art—often while enjoying some pizza! 🍕
+*  Beyond design, I’m an artist — whether it's painting, creating digital art, or getting lost in anime (usually with a slice of pizza 🍕 in hand!). 
 
 *  If you have a role to fill or have a chat , feel free to email me at pavanidegala123@gmail.com
   
