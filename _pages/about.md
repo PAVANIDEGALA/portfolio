@@ -10,7 +10,7 @@ seo:
 
 *  Hi, I'm Pavani! 👋🏼
    
-*  A UI/UX & Graphic Designer with 3 years of experience bringing ideas to life through seamless and engaging digital experiences.
+*  A UI/UX & Graphic Designer with 4 years of experience bringing ideas to life through seamless and engaging digital experiences.
 
 *  I love creating intuitive interfaces, eye-catching visuals, and user-friendly designs that not only look great but also feel effortless to use.
 
