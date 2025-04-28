@@ -9,6 +9,5 @@ tags: socialmedia
 
 ## Hashwear:
 
-![hashwear](../images/5.png)
-![hashwear](../images/5.png)
-![hashwear](../images/5.png)
+![hashwear](../images/H1.png)
+![hashwear](../images/H2.png)
