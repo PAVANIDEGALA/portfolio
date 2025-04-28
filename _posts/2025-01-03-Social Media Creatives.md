@@ -7,8 +7,6 @@ permalink: /social-media/
 tags: socialmedia
 ---
 
-## Hashwear:
-
 ![hashwear](../images/H1.png)
 ![hashwear](../images/H2.png)
 ![hashwear](../images/H3.png)
