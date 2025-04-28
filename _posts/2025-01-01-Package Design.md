@@ -3,7 +3,7 @@ layout: post
 title: Package designing
 date: 2025-01-01 18:54 +0600
 image: "/images/Header image.png"
-permalink: /social-media/
+permalink: /package-design/
 tags: socialmedia
 ---
 
