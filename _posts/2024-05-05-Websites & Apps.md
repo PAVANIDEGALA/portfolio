@@ -83,7 +83,6 @@ Learnings.dev is a learnings platform for people who want to code
 ## Instacraves : Website and app
 Instacraves is a traditional coffee shop website which provides different types cofee and tea products.
 
-Live link - https://edu.imagemediaworld.com/instacrave/
 
 ![Instacraves](../images/Insta.png)
 
