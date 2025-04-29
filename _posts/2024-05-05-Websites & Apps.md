@@ -31,6 +31,37 @@ Live link - https://urbanhospitals.in/
 
 ![Urban Hospitals](../images/TabUH.png)
 
+## Stavan group - For [Virtual Qube](https://www.vqubetech.com/)
+Stavan Group is a logistics provider offering services in freight forwarding, customs clearance, warehousing, transportation, and consultancy across domestic and international markets.
+
+![stavan](../images/stavan.png)
+
+![stavan](../images/TabS.png)
+
+![stavan](../images/Stavan2.jpg)
+
+## Cleaners Australia - For [Virtual Qube](https://www.vqubetech.com/)
+Cleaners Australia offers expert cleaning services, focusing on end-of-lease, bond, and move-in/out cleaning, ensuring hassle-free, high-quality solutions for homes across Australia
+
+Live Link - [Cleaners Australia](https://cleanersaustralia.com.au/)
+
+![Cleanersaustralia](../images/cleaner.png)
+
+![Cleanersaustralia](../images/TabCA.png)
+
+![Cleanersaustralia](../images/CA2.jpg)
+
+## Smiths Lane - For [Virtual Qube](https://www.vqubetech.com/)
+Smiths Lane Wines delivers premium quality wines from Australia and New Zealand, offering personalized bottle options
+
+Live Link - [Simths Lane](https://smithslanewines.com.au/)
+
+![SmithsLane](../images/TabSL.png)
+
+![SmithsLane](../images/smiths.png)
+
+![SmithsLane](../images/SL2.jpg)
+
 ## MAULI STAYS: Website and app
 Mauli Stays is a comprehensive hospitality platform offering hotel bookings with inclusive amenities such as dining options, play areas, and diverse facilities. Our team developed both mobile app and website to enhance the guest experience.
 
