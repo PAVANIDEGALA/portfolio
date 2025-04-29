@@ -4,7 +4,7 @@ title: Package designing
 date: 2025-01-01 18:54 +0600
 image: "/images/package.png"
 permalink: /package-design/
-tags: socialmedia
+tags: PACKAGING
 ---
 
 ![Productdesign](../images/P1.png)
