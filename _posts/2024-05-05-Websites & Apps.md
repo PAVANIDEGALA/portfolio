@@ -11,6 +11,26 @@ tags: ui/ux
 
 UI/UX Designer
 
+## The Search Equation - For [Virtual Qube](https://www.vqubetech.com/)
+The Search Equation is a professional SEO company helping businesses boost online visibility, traffic, and sales with tailored strategies.
+
+![Thesearchequation](../images/seo.png)
+
+![Thesearchequation](../images/TabTSE.png)
+
+![Thesearchequation](../images/tse2.jpg)
+
+## Urban Hospitals
+Urban Hospital provides compassionate, advanced healthcare services across various specialties, ensuring high-quality patient care and expert medical attention.
+
+Live link - https://urbanhospitals.in/
+
+![Urban Hospitals](../images/UH1.jpg)
+
+![Urban Hospitals](../images/UH2.jpg)
+
+![Urban Hospitals](../images/TabUH.png)
+
 ## MAULI STAYS: Website and app
 Mauli Stays is a comprehensive hospitality platform offering hotel bookings with inclusive amenities such as dining options, play areas, and diverse facilities. Our team developed both mobile app and website to enhance the guest experience.
 
