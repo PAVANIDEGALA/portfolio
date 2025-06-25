@@ -2,7 +2,7 @@
 layout: page
 title: About  
 permalink: /about/
-image: "/images/aboutcoverimage.png"
+image: "/images/Clients.png"
 seo:
   - name: "About pavanidegala"
   - type: Organization
