@@ -7,6 +7,19 @@ permalink: /social-media/
 tags: socialmedia
 ---
 
+## Youtube creators India✨:
+
+Worked on Social Media Carousals, Reels and Posts
+
+![YTC](../images/y1.png)
+![YTC](../images/y2.png)
+![YTC](../images/y3.png)
+![YTC](../images/y4.png)
+![YTC](../images/y5.png)
+![YTC](../images/Y1.png)
+![YTC](../images/Y6.png)
+![YTC](../images/Y7.png)
+
 ![hashwear](../images/h17.png)
 ![hashwear](../images/H18.png)
 ![hashwear](../images/H19.png)
