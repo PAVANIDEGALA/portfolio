@@ -2,7 +2,7 @@
 layout: post
 title: Package designing
 date: 2025-01-01 18:54 +0600
-image: "/images/package.png"
+image: "/images/packagedesign.png"
 permalink: /package-design/
 tags: PACKAGING
 ---

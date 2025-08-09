@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Social media designs
-date: 2025-01-01 18:54 +0600
-image: "/images/social.png"
+date: 2025-01-08 18:54 +0600
+image: "/images/socialmediabanner.png"
 permalink: /social-media/
 tags: socialmedia
 ---
