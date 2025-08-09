@@ -2,7 +2,7 @@
 layout: post
 title: Websites & Apps
 date: 2024-05-05 18:54 +0600
-image: "/images/webapps.png"
+image: "/images/websiteapp.png"
 permalink: /Apps and websites/
 tags: ui/ux
 ---
