@@ -36,19 +36,40 @@ Worked on creative for ads and social media
 
 ## Wildfire🔥: BBQ Brand
 
-![hashwear](../images/H6.png)
-![hashwear](../images/H7.png)
+![Wildfire](../images/H6.png)
+![Wildfire](../images/H7.png)
 
-## Skincare, Transport, Education, Jewellery, Matrimony, Cleaning etc
+## AIZU🤳🏻 : Digital Marketing Agency
+
+![aizu](../images/a1.png)
+![aizu](../images/a2.png)
+
+## Skincare
 
 ![hashwear](../images/H8.png)
+
+## Kaakateeya💕: Matrimony
+
 ![hashwear](../images/H9.png)
+
+## TSRTC🚍: Travel services
+
 ![hashwear](../images/H10.png)
+
+# Cleaners Australia🫧 : Cleaning services
+
+![hashwear](../images/H14.png)
 ![hashwear](../images/H11.png)
 ![hashwear](../images/H12.png)
 ![hashwear](../images/H13.png)
-![hashwear](../images/H14.png)
-![hashwear](../images/H15.png)
-![hashwear](../images/H16.png)
-![hashwear](../images/H19.png)
-![hashwear](../images/H20.png)
+
+# Gyan Ganga📔 : School
+
+![gyanganga](../images/a1.png)
+![gyanganga](../images/a2.png)
+
+# Aruva🎶 : Music 
+
+![aruva](../images/aruva1.png)
+![aruva](../images/aruva2.png)
+
