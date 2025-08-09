@@ -65,8 +65,8 @@ Worked on creative for ads and social media
 
 # Gyan Ganga📔 : School
 
-![gyanganga](../images/a1.png)
-![gyanganga](../images/a2.png)
+![gyanganga](../images/g1.png)
+![gyanganga](../images/g2.png)
 
 # Aruva🎶 : Music 
 
