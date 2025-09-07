@@ -13,6 +13,9 @@ Worked on Social Media Carousals, Reels and Posts
 
 ![YTC](../images/y1.png)
 ![YTC](../images/y2.png)
+![YTC](../images/y3-1.png)
+![YTC](../images/y3-2.png)
+![YTC](../images/y3-3.png)
 ![YTC](../images/y3.png)
 ![YTC](../images/y4.png)
 ![YTC](../images/y5.png)
