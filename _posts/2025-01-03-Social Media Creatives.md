@@ -7,10 +7,12 @@ permalink: /social-media/
 tags: socialmedia
 ---
 
-## Youtube creators India✨:
+
+## Youtube creators India✨: [click this to view page!](https://www.instagram.com/youtubecreatorsindia/)
 
 Worked on Social Media Carousals, Reels and Posts
 
+![YTC](../images/yb.png)
 ![YTC](../images/y1.png)
 ![YTC](../images/y2.png)
 ![YTC](../images/y3-1.png)
@@ -22,10 +24,21 @@ Worked on Social Media Carousals, Reels and Posts
 ![YTC](../images/y6.png)
 ![YTC](../images/y7.png)
 
+## QDrive Performance
+
+Worked on their website, brochures and on all the graphics for  WTM Event 
+
+![WTM](../images/wtm1.jpeg)
+![WTM](../images/wtm2.jpeg)
+![WTM](../images/wtm3.jpeg)
+
 ## Hashwear👕: Apparel Brand
 
 Worked on creative for ads and social media
 
+![hashwear](../images/n3.png)
+![hashwear](../images/n1.png)
+![hashwear](../images/n2.png)
 ![hashwear](../images/h17.png)
 ![hashwear](../images/H18.png)
 ![hashwear](../images/H1.png)
