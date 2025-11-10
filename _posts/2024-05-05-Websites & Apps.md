@@ -15,7 +15,9 @@ UI/UX Designer
 Beyond Spotless Detailing is a premium car detailing brand, and I designed a sleek, high-end website that reflects its quality service and helps customers easily book their detailing appointments.
 
 ![Cardetailing](../images/CD1.png)
+
 ![Cardetailing](../images/CD2.png)
+
 ![Cardetailing](../images/CD3.png)
 
 ## The Search Equation - For [Virtual Qube](https://www.vqubetech.com/)

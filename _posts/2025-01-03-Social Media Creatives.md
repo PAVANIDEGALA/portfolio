@@ -29,7 +29,9 @@ Worked on Social Media Carousals, Reels and Posts
 Worked on their website, brochures and on all the graphics for  WTM Event 
 
 ![WTM](../images/wtm1.jpeg)
+
 ![WTM](../images/wtm2.jpeg)
+
 ![WTM](../images/wtm3.jpeg)
 
 ## Hashwear👕: Apparel Brand
