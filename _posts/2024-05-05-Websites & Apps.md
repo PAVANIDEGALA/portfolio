@@ -29,7 +29,7 @@ The Search Equation is a professional SEO company helping businesses boost onlin
 
 ![Thesearchequation](../images/tse2.jpg)
 
-## Urban Hospitals
+## Urban Hospitals - [CLICK HERE TO VIEW WEBSITE!](https://urbanhospitals.in/)
 Urban Hospital provides compassionate, advanced healthcare services across various specialties, ensuring high-quality patient care and expert medical attention.
 
 Live link - https://urbanhospitals.in/
@@ -71,7 +71,7 @@ Live Link - [Simths Lane](https://smithslanewines.com.au/)
 
 ![SmithsLane](../images/SL2.jpg)
 
-## MAULI STAYS: Website and app
+## MAULI STAYS: Website and app - [CLICK HERE TO VIEW WEBSITE!](https://maulistays.com/)
 Mauli Stays is a comprehensive hospitality platform offering hotel bookings with inclusive amenities such as dining options, play areas, and diverse facilities. Our team developed both mobile app and website to enhance the guest experience.
 
 Live link - https://maulistays.com/

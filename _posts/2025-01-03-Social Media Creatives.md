@@ -24,9 +24,9 @@ Worked on Social Media Carousals, Reels and Posts
 ![YTC](../images/y6.png)
 ![YTC](../images/y7.png)
 
-## QDrive Performance
+## QDrive Performance - [CLICK HERE TO VIEW!](https://qdriveperformance.co.uk/qdrive-at-wtm-london-2025/)
 
-Worked on their website, brochures and on all the graphics for  WTM Event 
+Worked on their website, brochures and on all the graphics for  WTM Event
 
 ![WTM](../images/wtm1.jpeg)
 
@@ -34,7 +34,7 @@ Worked on their website, brochures and on all the graphics for  WTM Event
 
 ![WTM](../images/wtm3.jpeg)
 
-## Hashwear👕: Apparel Brand
+## Hashwear👕: Apparel Brand - [CLICK HERE TO VIEW!](https://www.instagram.com/hashwear.in/)
 
 Worked on creative for ads and social media
 
@@ -52,12 +52,12 @@ Worked on creative for ads and social media
 ![hashwear](../images/hn2.png)
 ![hashwear](../images/hn3.png)
 
-## Wildfire🔥: BBQ Brand
+## Wildfire🔥: BBQ Brand - [CLICK HERE TO VIEW!](https://www.instagram.com/wildfirebbqfusion/)
 
 ![Wildfire](../images/H6.png)
 ![Wildfire](../images/H7.png)
 
-## AIZU🤳🏻 : Digital Marketing Agency
+## AIZU🤳🏻 : Digital Marketing Agency - [CLICK HERE TO VIEW!](https://www.instagram.com/aizu_ae/)
 
 ![aizu](../images/a1.png)
 ![aizu](../images/a2.png)
@@ -66,7 +66,7 @@ Worked on creative for ads and social media
 
 ![hashwear](../images/H8.png)
 
-## Kaakateeya💕: Matrimony
+## Kaakateeya💕: Matrimony - [CLICK HERE TO VIEW](https://www.instagram.com/kaakateeya.marriages/)
 
 ![hashwear](../images/H9.png)
 
@@ -86,7 +86,7 @@ Worked on creative for ads and social media
 ![gyanganga](../images/g1.png)
 ![gyanganga](../images/g2.png)
 
-# Aruva🎶 : Music 
+# Aruva🎶 : Music - [CLICK HERE TO VIEW!](https://www.instagram.com/aruva.in/)
 
 ![aruva](../images/aruva1.png)
 ![aruva](../images/aruva2.png)
